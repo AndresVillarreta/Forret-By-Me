@@ -1,0 +1,15 @@
+{
+  "name": "forret",
+  "version": "1.0.0",
+  "description": "This is a copy of forret page",
+  "main": "index.js",
+  "scripts": {
+    "less": "less-watch-compiler less css index.less"
+  },
+  "author": "Andres Villarreta",
+  "license": "ISC",
+  "dependencies": {
+    "less": "^4.1.3",
+    "less-watch-compiler": "^1.16.3"
+  }
+}
